@@ -17,6 +17,8 @@ With some basic paperware, let's participate in a pyrotechnics display and launc
 control, like many, uses a `10`-count to give adequate warning to everyone involved. Your program should do
 this in as few instructions as possible (time, in the world of rockets, isn't cheap).
 
+![Flowchart for liftoff program](https://raw.githubusercontent.com/allegheny-college-cmpsc-200-fall-2023/liftoff-assignment/media/img/CMPSC%20200%20-%20Launch%20diagram.png)
+
 (**NB**: The program does not need to actually launch the rocket.)
 
 ### Space camp
