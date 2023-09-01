@@ -15,7 +15,7 @@
 
 ### In the space below, include a flowchart describing the implementation.
 
-![`TODO`](breaking.svg)
+![`TODO`](breaking.png)
 
 #### Notes
 
