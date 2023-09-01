@@ -1,0 +1,13 @@
+ADDRESS	CONTENTS	COMMENTS
+01	000		Create a zero for resetting ACC
+10	101		Reset ACC
+11	040		Take input, store in 040
+12	240		Add memory location 040 to ACC
+13	650		Store result in memory 050
+14	140		Clear and store memory 040 in ACC
+15	318		Test if ACC Is negative; if yes, go to 18
+16	811		Else jump to 11
+17	200		Add 1 back in to counteract the -1
+18	650		Store accumulator in memory 50
+19	550		Print memory 050
+20 	900
