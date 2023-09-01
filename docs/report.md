@@ -20,7 +20,7 @@
 #### Notes
 
 * You might use [Excalidraw](https://excalidraw.com/) to do this.
-* The markdown above is complete, but you'll need to replace `TODO` with a short description of your image (i.e. `ALT` text)
+* The markdown above is complete, but you'll need to replace the text above with a short description of your image (i.e. `ALT` text)
 * You are free to use whatever file format you want, but the image name has been given above
 * If you place that image in this folder with the correct name, it should appear!
 * For those needing a primer on Markdown images, see [THE SPEC](https://www.markdownguide.org/basic-syntax#images).
